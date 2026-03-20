@@ -1,0 +1,44 @@
+h2 {
+    font-family: "Trebuchet MS", sans-serif;
+    font-weight: 800;
+    font-style: initial;
+    letter-spacing: -1px;
+}
+
+
+h5 {
+    font-family: "Trebuchet MS", sans-serif;
+    color: #0099ff;
+
+}
+
+th{
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+td{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.nav-link{
+    color: white;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+color: blue;
+}
+
+.link-menu {
+    color: white;
+    text-decoration: none;
+}
+
+.link-menu:hover {
+    color: blue;
+}
