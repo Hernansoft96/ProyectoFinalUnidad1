@@ -42,3 +42,25 @@ color: blue;
 .link-menu:hover {
     color: blue;
 }
+
+.precio-card {
+    border-radius: 15px;
+    padding: 20px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    background: #f8f9fa;
+}
+
+.precio-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 10px 20px rgba(0,0,0,0.2);
+}
+
+.destacado {
+    background: #212529;
+    color: white;
+}
+
+.destacado h4 {
+    color: #ffc107;
+}
+
